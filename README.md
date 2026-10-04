@@ -1,4 +1,4 @@
-> Sunsetted in liue of the deprecation of RepoRater itself.
+> Cascade Sunsetted. RepoRater has been sunset.
 
 <div align="center">
 <img height="150" width="150" src="https://github.com/EddieHubCommunity/RepoRater/raw/ee5f3e61ec1bd7676f02af93d4f3d0e3e3122c57/public/reporater-logo.png" />
@@ -24,7 +24,7 @@
 - Install the package using `yarn add repo-rater.js`
 - Use it however you see fit.
 
-![](https://github.com/xkrishguptaa/repo-rater.js/raw/main/assets/editor.png)
+![](https://github.com/ikrishg/repo-rater.js/raw/main/assets/editor.png)
 
 ### 🛠️ Development
 
